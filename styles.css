@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204);
+}
+h1,h2{
+	text-align: center
+}
+li{
+	list-style-type:none;
+	
+}
+a{
+	text-decoration-line:none;
+}
+.player_two, .player_one{
+	background-color:white;
+	border-radius:10px ;
+	padding:20px;
+	border:solid 1px black;
+	
+}
+
+video, audio{
+	width:100%;
+}
